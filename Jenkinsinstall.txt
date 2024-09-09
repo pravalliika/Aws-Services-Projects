@@ -1,0 +1,31 @@
+tar -zxvf file   ---to unzip tar file
+
+ls lib/
+all jar files will be in lib folder for maven
+mvn archetype:generate  ---it will generate all dependices needed for projet
+
+
+To get jenkins in 3 steps:
+Step 1:
+Sudo yum update -y 
+wget jenkins repo url (from jenkins website )
+sudo give key also url (from jenkins website )
+
+Step 2:
+
+To install git we need maven
+yum install git maven java.1.8.0.openjdk jenkins -y
+
+sudo amazon-linux-extras install epel -y---it will install extras enterprise packages
+systemctl restart jenkins.service
+systemctl status jenkins.service
+
+
+cd /var/lib/jenkins/workspace/
+ll
+
+we can see job git files which we integrated
+
+
+
+

@@ -1,0 +1,109 @@
+What is cloud?
+
+It is like a virtual server.
+In this cloud we can store our files and we can access them through internet from anywhere in world.
+
+What is cloud computing?
+
+Cloud Computing Is the on- demand delivery [We use this when we needed]of compute power, data storage, application and other resources.
+Through a cloud service platform with pay-as-you-go pricing.
+
+Deployment Models
+
+Public Cloud
+Private Cloud
+Hybrid Cloud
+
+
+1.Public Cloud:
+Cloud resources owned and operated by a 3rd party cloud service provider delivered over the Internet.
+Ex: google,amazon,microsoft
+
+2. Private Cloud:
+A private cloud used by single organization, not exposed to public, complete contro, 
+security for sensitive application.
+
+
+3. Hybrid Cloud:
+
+A hybrid cloud consists the functionalities of both private and public cloud
+
+Characterstics of Cloud Computing:
+
+On Demand self service
+Broad Network access 
+Multi tenancy & Resource pooling
+Rapid Elasticity & Scalability
+Measured Service
+
+Advantages of Cloud Computing:
+
+Backup and restore data
+ Improved Collaboration 
+Excellent Accessibility 
+Low maintenance cost
+Mobility
+Unlimited storage
+Data Security
+Pay- as- per-use
+
+
+Problems solved by Cloud
+
+Flexibility
+Cost Effective 
+Scalability
+Elasticity
+High Availability and fault tolerance
+Agility
+
+
+TYPE OF CLOUD Computing:
+
+Service Models:
+    Cloud provide some services 
+
+IaaS(Infrastructure as a Service)
+PaaS(Platform as a Service)
+SaaS(Software As a Service)
+
+IaaS(Infrastructure as a Service
+------------------------------------------------------
+
+Provides virtual machine to customers as per requirement by cloud provider
+Provides network, computers, data storage space
+Ex: If the user wants a Linux machine, he gets a Linux machine, If the user wants a Windows machine, he gets a windows machine,
+
+PaaS(Platform as a Service)
+--------------------------------------------------------------
+PaaS is a complete development and deployment or management of your application in the cloud
+
+Ex:  No need to worry about server it will deploy our own code
+
+
+SaaS(Software As a Service)
+----------------------------------------------
+SaaS applications (Web-based software, on-demand software, or hosted software)
+It is a cloud-based software delivery model that allows SaaS applications to run on SaaS providers' servers instead of installing and maintaining software on-premises.
+Ex: Netflix, AWS.
+
+
+We have some major companies delivering the Cloud Computing Services(Service Providers). Some notable examples include the following:
+Amazon: Amazon Web Service(AWS) 
+Google: Google Cloud Platform
+Microsoft: Microsoft Azure
+
+Pricing of the cloud
+Pay- as- you-go -pricing-model
+Compute
+Storage
+Data transfer out of the cloud
+
+
+
+
+
+
+
+
+
