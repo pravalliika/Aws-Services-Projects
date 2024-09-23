@@ -1,0 +1,43 @@
+Imagine you're building a city in the cloud! You need roads, buildings, and even a way to connect to the internet. In the cloud world, we call this creating a "VPC" (Virtual Private Cloud)**, and we’ll walk you through it step by step.
+
+Step 1: Create Your City (VPC)
+
+First, you need to make your city, which is called a "VPC". Think of it as a fenced area where you will build everything. 
+
+1. Go to the AWS VPC service.
+2. Click on "Create VPC".
+3. Name your city (VPC) and give it a block of space (CIDR range, which tells how big your city is).
+Once done, hit "Create" – boom! Your city is now built.
+
+Step 2: Build Zones (Subnets)
+
+In your city, you will create different areas (subnets) where different things will happen, like app servers, web servers, and database servers.
+
+1. Click to create a "subnet".
+2. Choose the VPC you just created.
+3. Name your first zone, for example, "App Server."
+4. Pick a spot (availability zone) and give it a small block of space (a CIDR range, like a house number inside the city).
+
+Repeat these steps for two more zones, like "Web Server" and "Database Server". Make sure each zone is in a different spot (availability zone) and has its own space!
+
+
+Step 3: Connect to the Internet (Internet Gateway)
+
+Now, we need a way for people to visit your city from outside. This is where the "Internet Gateway (IGW)" comes in. It's like the big gate letting people in and out.
+
+1. Click on "Create Internet Gateway".
+2. Give it a name and create it.
+3. Attach this gateway to your VPC to connect your city to the internet!
+
+Step 4: Add Roads (Route Table)
+
+Your city now needs roads to direct traffic! The **Route Table** tells data where to go.
+
+1. Create a "Route Table".
+2. Add a new rule that connects the Internet Gateway to your city, so traffic from the internet can get in.
+3. Finally, attach your subnets to this Route Table so they can use the roads!
+
+You've now built a VPC, created zones (subnets), connected it to the internet (Internet Gateway), and set up roads (Route Table) to guide the traffic. Your cloud city is ready!
+
+
+
